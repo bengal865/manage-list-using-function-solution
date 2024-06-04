@@ -8,6 +8,9 @@
 
 > Save your files to a GitHub repo named: ***manage-list-with-function***
 
+## Sample Output
+![Sample output](sample-output.png)
+
 ## General Requirements
 
 - Add a comment block to the top of your script
