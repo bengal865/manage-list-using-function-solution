@@ -1,4 +1,4 @@
-﻿# Practice: Lesson Title
+﻿# Practice: Manage Python List Using a Function
 
 ## Overview:
 
